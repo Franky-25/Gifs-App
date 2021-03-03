@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "gifsApp"
+  "defaultProject": "gifsApp",
+  "cli": {
+    "analytics": "885f0f49-a9ef-4c6b-a986-863a3aec3e39"
+  }
 }
